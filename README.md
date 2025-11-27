@@ -114,7 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔄 Last Updated
 
-**November 27, 2025** - Initial release with 2025 event listings
+**November 27, 2025** - Auto-updated with latest information
 
 ---
 
