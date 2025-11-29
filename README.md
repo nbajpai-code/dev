@@ -107,6 +107,42 @@ This repository is designed for:
 
 ---
 
+---
+
+## 📈 Visitor Analytics & Profiling
+
+Want to see where your visitors are coming from? You can add visitor tracking to your repositories or your GitHub Profile.
+
+### 1. Repository Tracking
+To track visitors for a specific repository (like this one), you can use **Clustrmaps** or **Flag Counter**.
+
+**Option A: Clustrmaps (Map View)**
+1.  Go to [Clustrmaps](https://clustrmaps.com/).
+2.  Enter your repository URL (e.g., `https://github.com/nbajpai-code/dev`).
+3.  Generate the widget code (select "Image" or "Markdown").
+4.  Add it to your README:
+    ```markdown
+    [![Clustrmaps](https://clustrmaps.com/map_v2.png?d=YOUR_ID&cl=ffffff&w=a)](https://clustrmaps.com/site/YOUR_ID)
+    ```
+
+**Option B: Flag Counter (List View)**
+1.  Go to [Flag Counter](https://flagcounter.com/).
+2.  Customize your counter (columns, max flags, etc.).
+3.  Get the code for "For Forums" or "Image".
+4.  Add it to your README:
+    ```markdown
+    [![Flag Counter](https://s11.flagcounter.com/count/YOUR_ID/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/)](https://info.flagcounter.com/YOUR_ID)
+    ```
+
+### 2. Profile Tracking
+To track visitors to your main GitHub Profile:
+1.  Create a repository with the **same name as your username** (e.g., `nbajpai-code/nbajpai-code`).
+2.  Create a `README.md` in that repository.
+3.  Follow the steps above to generate a widget for your **profile URL** (`https://github.com/nbajpai-code`).
+4.  Add the widget code to your profile README.
+
+---
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
