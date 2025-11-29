@@ -23,6 +23,7 @@ Welcome to the ultimate resource hub for IT professionals and developers in the 
 ### 📚 Learning & Community
 - [**Learning Resources**](learning/README.md) - Courses, tutorials, books, and podcasts
 - [**Must-Know GitHub Repos**](GITHUB_RESOURCES.md) - Essential repositories for every developer
+- [**Unlock Profile Badges**](BADGES.md) - Guide to getting GitHub Achievements
 - [**Community & Networking**](community/README.md) - Local tech communities and online groups
 
 ---
