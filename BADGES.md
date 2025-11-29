@@ -54,9 +54,13 @@ These are the quickest wins to decorate your profile.
 
 ### 7. Galaxy Brain 🌌
 *   **Criteria:** Have 2 answers accepted in GitHub Discussions.
-*   **How to get it:**
-    1.  Participate in repositories that have "Discussions" enabled.
-    2.  Provide helpful answers that the author marks as "Accepted".
+*   **The Strategy (How to get it easily):**
+    You need a **friend** or a **secondary GitHub account** for this.
+    1.  **Enable Discussions:** Go to your repository (e.g., `dev`) -> Settings -> General -> Features -> Check "Discussions".
+    2.  **Ask:** Have your friend (or secondary account) create a "New Discussion" in your repo asking a question.
+    3.  **Answer:** You reply to that discussion with the answer.
+    4.  **Accept:** Have your friend (or secondary account) mark your reply as the "Accepted Answer".
+    5.  **Repeat:** Do this one more time (total 2 accepted answers) to unlock the badge!
 
 ## 🔴 Hard / Rare Badges
 
